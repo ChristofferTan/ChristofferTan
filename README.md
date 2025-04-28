@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Christoffer Tan 👋
 
-<!--
-**ChristofferTan/ChristofferTan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science & Data Science student at the **University of Toronto**.  
+🔍 Passionate about **Data Science**, **Machine Learning**, and **Software Engineering**.  
+📊 I enjoy building **data-driven solutions** that bridge theory and real-world impact.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technical Skills
+
+**Languages:**  
+Python, Java, C/C++, HTML/CSS, JavaScript/TypeScript, SQL, R
+
+**Frameworks & Libraries:**  
+Pandas, NumPy, scikit-learn, tidyverse, Seaborn, ggplot2, Flask
+
+**Databases & Tools:**  
+MongoDB, PostgreSQL, Prisma, Git, AWS, Tableau, Jupyter Notebook
+
+---
+
+## ⚽ About Me
+When I'm not coding or analyzing data, you’ll likely find me:
+- On the badminton, soccer, or basketball court 🏸⚽🏀
+- Brainstorming new ways to solve problems with data 📈
+- Exploring cool tech projects and staying curious 🔍
+
+Feel free to explore my [**personal website**](https://christoffertan.github.io/) for more about my projects and experiences!
+
+---
+
+## 📫 Let's Connect
+- [LinkedIn](https://linkedin.com/in/christoffertan)  
+- [GitHub](https://github.com/christoffertan)  
+- [Personal Website](https://christoffertan.github.io/)
+
+---
