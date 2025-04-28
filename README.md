@@ -1,31 +1,31 @@
 # Hi there, I'm Christoffer Tan 👋
 
-🎓 I'm a Computer Science & Data Science student at the **University of Toronto**.  
-🔍 Passionate about **Data Science**, **Machine Learning**, and **Software Engineering**.  
-📊 I enjoy building **data-driven solutions** that bridge theory and real-world impact.
+🎓 I'm a Computer Science and Data Science student at the **University of Toronto**.  
+🔍 I'm passionate about **Data Science**, **Machine Learning**, and **Software Engineering**.  
+📊 I love turning ideas into **data-driven solutions** that create real-world impact.
 
 ---
 
-## 🔧 Technical Skills
+## 🛠️ Technical Skills
 
-**Languages:**  
+**Languages**  
 Python, Java, C/C++, HTML/CSS, JavaScript/TypeScript, SQL, R
 
-**Frameworks & Libraries:**  
+**Frameworks & Libraries**  
 Pandas, NumPy, scikit-learn, tidyverse, Seaborn, ggplot2, Flask
 
-**Databases & Tools:**  
+**Databases & Tools**  
 MongoDB, PostgreSQL, Prisma, Git, AWS, Tableau, Jupyter Notebook
 
 ---
 
 ## ⚽ About Me
-When I'm not coding or analyzing data, you’ll likely find me:
+Outside of tech, you’ll probably find me:
 - On the badminton, soccer, or basketball court 🏸⚽🏀
-- Brainstorming new ways to solve problems with data 📈
-- Exploring cool tech projects and staying curious 🔍
+- Exploring new tech trends and data-driven ideas 📈
+- Staying curious and building things that make a difference 🔍
 
-Feel free to explore my [**personal website**](https://christoffertan.github.io/) for more about my projects and experiences!
+Feel free to check out my [**personal website**](https://christoffertan.github.io/) to learn more about my projects and experiences!
 
 ---
 
